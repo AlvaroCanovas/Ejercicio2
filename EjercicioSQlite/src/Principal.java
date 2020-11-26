@@ -71,8 +71,7 @@ public class Principal extends JFrame implements ActionListener{
 
 	public static void main(String[] args) {
 		 new Principal();
-		 System.out.println("Cambio1");
-		 System.out.println("Cambio2");
+		 System.out.println("Se ha creado la rama clasenueva");
 		}//fin main
    
 }//fin class 
